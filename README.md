@@ -1,3 +1,3 @@
-# cse110
+# CSE 110
 Aaron Joshua Delacruz's User Page  
-Python is my first coding language.  
+Python was my first coding language.  
