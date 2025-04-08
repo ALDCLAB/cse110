@@ -10,7 +10,7 @@
 
 ``` This seems like a bit of nonsense right? Like those subscripts and superscripts do not really make sense.```  
 
-[Like this is a random link here, a section link to the end of this page](#Space...)  
+[Like this is a random link here, a section link to the end of this page](###Space...)  
 
 [And this one too yes?](README.md)  
 
