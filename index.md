@@ -28,8 +28,8 @@
 
 - [ ] sorry,
 - [ ] that was
-- [ ] my nonexistent grocery list
-- [ ] because im a college student with no money :D
+- [X] my nonexistent grocery list
+- [X] because im a college student with no money :D
 
 Anyways, here is one thing. Although I do not know much, I am fascinated about space. That's a whole unexplored area with a bunch of things we cannot reach in our lifetime. Plus, some photographs of space look really cool. 
 ### Space... 
